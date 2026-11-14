@@ -1,0 +1,42 @@
+# Unity
+/raycastodev/[Ll]ibrary/
+/raycastodev/[Tt]emp/
+/raycastodev/[Oo]bj/
+/raycastodev/[Bb]uild/
+/raycastodev/[Bb]uilds/
+/raycastodev/[Ll]ogs/
+/raycastodev/[Uu]ser[Ss]ettings/
+/raycastodev/[Mm]emoryCaptures/
+/raycastodev/[Rr]ecordings/
+
+# IDE
+/raycastodev/.vs/
+/raycastodev/.idea/
+/raycastodev/.vscode/
+
+# Dosya türleri
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Build çıktıları
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crash loglar
+sysinfo.txt
+crashlytics-build.properties
